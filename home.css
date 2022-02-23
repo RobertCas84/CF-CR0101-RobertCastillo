@@ -1,0 +1,32 @@
+.header {
+  background-color: #cabbb7;
+  padding: 10%;
+}
+#Mainlogo {
+  float: right;
+  width: 40%;
+  display: block;
+  margin: -13vh -4vh -3vh 0;
+}
+
+.subcontent {
+  float: right;
+  background-color: #c65252;
+  width: 100%;
+  height: 100px;
+  margin-top: -15px;
+}
+.navigation {
+  float: right;
+  margin-right: 3%;
+  font-size: 2em;
+  color: white;
+  text-decoration: none;
+  margin-top: 22px;
+}
+h1 {
+  text-align: center;
+  font-size: 5em;
+  font-family: "Varela Round", sans-serif;
+  margin-top: 130px;
+}
