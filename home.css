@@ -33,9 +33,22 @@ h1 {
 
 .picture1 {
   display: block;
-  width: auto;
+
   align-content: center;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+  height: 22em;
+}
+.subtitle1 {
+  display: block;
+  text-align: center;
+  font-size: 2em;
+}
+
+.subcontent2 {
+  display: block;
+}
+
+.part2 {
+  float: right;
 }
