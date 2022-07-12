@@ -38,17 +38,40 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   height: 22em;
+  width: 77em;
 }
 .subtitle1 {
   display: block;
   text-align: center;
   font-size: 2em;
 }
-
-.subcontent2 {
+.subtitle2 {
   display: block;
+
+  width: 40%;
 }
 
-.part2 {
+.subtitle3 {
+  text-align: center;
   float: right;
+  width: 40%;
+}
+
+.subcontent2 {
+}
+
+.picture3 {
+  float: right;
+}
+.footer {
+  height: 10vh;
+  background-color: #cabbb7;
+  text-align: center;
+  margin-bottom: 0;
+}
+#lastimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
